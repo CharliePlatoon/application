@@ -1,5 +1,4 @@
 # Challenge 2.3 (Medium #3)
 
-Given a list of words, sort them by length, and then alphabetically if they have the same length.
-
-Ex: ['bar', 'foo', 'fun', 'cool', 'of', 'is', 'as'] would return ['as', 'is', 'of', 'bar', 'foo', 'fun', 'cool']
+Given a string, spell that word out using the NATO Phonetic Alphabet.
+Ex: `code platoon` would return `charlie oscar delta echo papa lima alpha tango oscar oscar november`
