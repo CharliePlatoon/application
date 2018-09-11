@@ -1,5 +1,4 @@
 # Challenge 1.2 (Easy #2)
 
-Given a birth year, calculate the true age of a dog. (1 human year = 7 dog years)
-
-Example: 2000 would return 119 years old
+Given a dog's birth year, calculate its current "true" age (1 human year = 7 dog years)
+Example: A dog born in the year 2000 would be 126 in 2018
